@@ -1,0 +1,15 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="always"
+        android:title="Refresh" />
+    <item
+        android:id="@+id/privacy"
+        android:orderInCategory="200"
+        android:title="Privacy policy"
+        app:showAsAction="never" />
+</menu>

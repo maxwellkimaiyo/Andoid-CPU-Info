@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_color">#004D60</color>
+    <color name="blue_soft">#1FAEFF</color>
+    <color name="yellow">#F4B300</color>
+    <color name="brown">#004D60</color>
+<!--     <color name="blue">#00abea</color> -->
+    <color name="white">#ffffff</color>
+    <color name="grey_back">#cccccc</color>
+    <color name="tab_color">#22A7F0</color>
+    <color name="tab_text_color">#000000</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    
+    <color name="grey">#666666</color>
+    <color name="darker_grey">#4B4B4D</color>
+    <!-- other color -->
+    <color name="soft_grey">#EBEBEB</color>
+    <color name="soft_grey2">#DBDBDB</color>
+    
+ 	<!-- Drawer menu color -->
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#ffffff</color>
+    <color name="list_background_pressed">#EBEBEB</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+</resources>

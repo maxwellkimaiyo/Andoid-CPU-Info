@@ -1,0 +1,4 @@
+#Thu Jun 20 15:45:07 EAT 2019
+base.0=D\:\\errorApps\\cpu1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
